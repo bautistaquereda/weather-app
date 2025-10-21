@@ -1,0 +1,44 @@
+body{
+    font-family: "Lato", sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.container{
+    max-width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(37, 37, 37);
+    border-radius: 3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+h1,h2,p{
+    color: white;
+}
+
+input[type="text"]{
+    padding: 10px;
+    font-size: 15px;
+    width: 80%;
+}
+
+button{
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    cursor: pointer;
+}
+
+#resData{
+    margin-top: 20px;
+    font-size: 17px;
+}
