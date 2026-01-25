@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# Weather App
 
 A simple JavaScript application that displays the current weather of any city using the **OpenWeatherMap API**.
 
